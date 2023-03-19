@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: century;
+}
+header{
+background-image: url(https://www.voyagetips.com/wp-content/uploads/2017/04/fenghuang-chine.jpg);
+height: 100vh;
+background-size: cover;
+background-position: center
+}
+header img{
+    transform: translateY(-120px);
+}
+header h1{
+    text-align: center;
+    color: antiquewhite;
+    height: 120px;
+}
+h2{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+    margin-top: 10px;
+}
+footer h3{
+    color: aliceblue;
+}
+p{
+    background-color: antiquewhite;
+    letter-spacing: 1px;
+    margin-left: 10px;
+}
+body{
+    background-color: antiquewhite;
+}

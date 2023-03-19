@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: century;
+}
+header{
+    background-image: url(https://img.emg-services.net/HtmlPages/HtmlPage2154/helsinki-header.jpg);
+    height (100vh);
+    background-size: cover;
+    background-position: center
+}
+header h1{
+    text-align: center;
+    padding: 200px;
+    color: rgb(255, 250, 251);
+}
+header img{
+margin-left: 350px;
+background-position: center;
+transform: translateY(-200px);
+}
+footer{
+    padding: 30px;
+    background-color: black;
+    margin-top: 10px;
+}
+footer h3{
+    color: aliceblue;
+}
+h2{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    margin-left: 15px;
+    background-color: antiquewhite;
+}
+body{
+    background-color: antiquewhite;
+}
+

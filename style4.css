@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: century;
+}
+header{
+    background-image: url(https://explore-ton-monde.fr/wp-content/uploads/2022/10/drepeau-norvege.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+h1{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+}
+h3{
+    
+    color: aliceblue;
+}
+p{
+    background-color: rgb(15, 15, 18);
+    color: aliceblue;
+}
+footer{
+    padding: 60px;
+    background-color: brown;
+    margin-top: 10px;
+}
+body{
+    background-color: rgb(157, 186, 186);
+}
+
